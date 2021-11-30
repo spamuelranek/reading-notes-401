@@ -12,3 +12,8 @@
 - Pain and Suffering
 - Big 0
 - Python and Names/ Assignment
+
+### [Reading 02](reading-02.md)
+- Testing
+- __name__ equals __main__
+- Recursion
