@@ -17,3 +17,7 @@
 - Testing
 - __name__ equals __main__
 - Recursion
+
+### [Reading 03](reading-03.md)
+- Read & Write files (Python)
+- Exceptions (Python)
