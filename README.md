@@ -21,3 +21,8 @@
 ### [Reading 03](reading-03.md)
 - Read & Write files (Python)
 - Exceptions (Python)
+
+### [Reading 04](reading-04.md)
+- Classes
+- Recursion
+- Pytest
