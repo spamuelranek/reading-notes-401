@@ -26,3 +26,6 @@
 - Classes
 - Recursion
 - Pytest
+
+### [Reading 05](reading-05.md)
+- Linked Lists
