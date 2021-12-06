@@ -29,3 +29,8 @@
 
 ### [Reading 05](reading-05.md)
 - Linked Lists
+
+### [Reading 06](reading-06.md)
+- How to use Random Module
+- Risk Analysis
+- Test Coverage
