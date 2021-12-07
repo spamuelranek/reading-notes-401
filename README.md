@@ -34,3 +34,7 @@
 - How to use Random Module
 - Risk Analysis
 - Test Coverage
+
+### [Reading 07](reading-06.md)
+- Scope
+- Big O
