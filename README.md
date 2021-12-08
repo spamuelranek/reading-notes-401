@@ -35,6 +35,9 @@
 - Risk Analysis
 - Test Coverage
 
-### [Reading 07](reading-06.md)
+### [Reading 07](reading-07.md)
 - Scope
 - Big O
+
+### [Reading 08](reading-08.md)
+- List Comprehensions
