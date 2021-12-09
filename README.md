@@ -41,3 +41,7 @@
 
 ### [Reading 08](reading-08.md)
 - List Comprehensions
+
+### [Reading 09](reading-09.md)
+- Dunder Methods
+- Statistics
