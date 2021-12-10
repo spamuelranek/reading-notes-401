@@ -15,7 +15,7 @@
 
 ### [Reading 02](reading-02.md)
 - Testing
-- __name__ equals __main__
+- __name__ equals "__main__":
 - Recursion
 
 ### [Reading 03](reading-03.md)
@@ -45,3 +45,6 @@
 ### [Reading 09](reading-09.md)
 - Dunder Methods
 - Statistics
+
+### [Reading 10](reading-10.md)
+- Stacks and Queues
