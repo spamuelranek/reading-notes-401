@@ -48,3 +48,7 @@
 
 ### [Reading 10](reading-10.md)
 - Stacks and Queues
+
+### [Reading 11](reading-11.md)
+- Jupyter
+- Numpy
