@@ -52,3 +52,6 @@
 ### [Reading 11](reading-11.md)
 - Jupyter
 - Numpy
+
+### [Reading 12](reading-12.md)
+- Pandas
