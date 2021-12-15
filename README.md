@@ -55,3 +55,6 @@
 
 ### [Reading 12](reading-12.md)
 - Pandas
+
+### [Reading 13](reading-13.md)
+- linear regression
