@@ -24,3 +24,5 @@
 ## Additional resources for Pandas:
 - [Pandas Getting Started Guide](https://pandas.pydata.org/pandas-docs/stable/getting_started/intro_tutorials/index.html)
 - [Real Python Guide to Pandas](https://realpython.com/learning-paths/pandas-data-science/)
+
+[Return Home](README.md)
