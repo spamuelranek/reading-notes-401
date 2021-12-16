@@ -58,3 +58,6 @@
 
 ### [Reading 13](reading-13.md)
 - linear regression
+
+### [Reading 14](reading-14.md)
+- matpltlib -- plt
