@@ -75,6 +75,7 @@ def post_order(self, post_order_list = [])
 ``` python
 def breadth_first(self, root)
 
+queue = Queue()
 queue.enqueue(root)
 breadth_list = []
 
@@ -93,4 +94,23 @@ while not queue.is_empty():
 
 ### K trees
 - Can have max value of children
-- Traversal is similar
+- Traversal is similar as breadth, but with a for loop
+
+``` python
+
+def k_traversal():
+
+  queue = Queue()
+  queue.enqueue(root)
+  k_list = []
+
+  while not queue.is_empty():
+    new_node = queue.dequeue()
+    k_list.append(new_node)
+
+    for child in new_node.chlidren
+      queue.enqueue(child)
+
+```
+
+
