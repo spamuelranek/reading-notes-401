@@ -67,3 +67,7 @@
 
 ### [Reading 16](reading-16.md)
 - Serverless Computing
+
+### [Reading 17](reading-17.md)
+- Web Scraping
+- How to scrape without being blocked
