@@ -71,3 +71,6 @@
 ### [Reading 17](reading-17.md)
 - Web Scraping
 - How to scrape without being blocked
+
+## [Reading 18](reading-18.md)
+- Cryptography
