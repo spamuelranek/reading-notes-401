@@ -74,3 +74,6 @@
 
 ## [Reading 18](reading-18.md)
 - Cryptography
+
+## [Reading 19](reading-19.md)
+- Automation
