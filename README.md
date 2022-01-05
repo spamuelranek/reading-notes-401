@@ -77,3 +77,7 @@
 
 ## [Reading 19](reading-19.md)
 - Automation
+
+## [Reading 20](reading-20.md)
+- Django
+  - server stuff
