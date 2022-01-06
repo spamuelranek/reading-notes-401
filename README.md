@@ -81,3 +81,6 @@
 ## [Reading 20](reading-20.md)
 - Django
   - server stuff
+
+## [Reading 21](reading-21.md)
+- Django Models
