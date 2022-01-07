@@ -84,3 +84,6 @@
 
 ## [Reading 21](reading-21.md)
 - Django Models
+
+## [Reading 22](reading-22.md)
+- Django Forms

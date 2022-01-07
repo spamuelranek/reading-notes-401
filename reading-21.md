@@ -20,7 +20,7 @@
 
 ### Creating and Modifying records
 ```python
-# to save datat
+# to save data
 record = MyModelName(my_field_name = "Instance 1")
 record.save()
 
