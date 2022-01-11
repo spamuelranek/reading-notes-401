@@ -91,3 +91,6 @@
 ## [Reading 23](reading-23.md)
 - DjangoX
 - Customer Users
+
+# [Reading 24](reading-24.md)
+- Hash Tables
