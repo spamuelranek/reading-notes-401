@@ -92,5 +92,9 @@
 - DjangoX
 - Customer Users
 
-# [Reading 24](reading-24.md)
+## [Reading 24](reading-24.md)
 - Hash Tables
+
+## [Reading 25](reading-25.md)
+- Django Restful Framework
+- Beginning Docker
