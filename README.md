@@ -98,3 +98,7 @@
 ## [Reading 25](reading-25.md)
 - Django Restful Framework
 - Beginning Docker
+
+## [Reading 26](reading-26.md)
+- Permissions
+- Postgresql
