@@ -3,72 +3,72 @@
 
 ## IT IS FOR ALL THE KNOWLEDGE
 
-### [Growth Mindset](growthmindset.md)
+## [Growth Mindset](growthmindset.md)
 - Deliberate Practice
 - Redefining Success
 - Emotional Intelligence
 
-### [Reading 01](reading-01.md)
+## [Reading 01](reading-01.md)
 - Pain and Suffering
 - Big 0
 - Python and Names/ Assignment
 
-### [Reading 02](reading-02.md)
+## [Reading 02](reading-02.md)
 - Testing
 - __name__ equals "__main__":
 - Recursion
 
-### [Reading 03](reading-03.md)
+## [Reading 03](reading-03.md)
 - Read & Write files (Python)
 - Exceptions (Python)
 
-### [Reading 04](reading-04.md)
+## [Reading 04](reading-04.md)
 - Classes
 - Recursion
 - Pytest
 
-### [Reading 05](reading-05.md)
+## [Reading 05](reading-05.md)
 - Linked Lists
 
-### [Reading 06](reading-06.md)
+## [Reading 06](reading-06.md)
 - How to use Random Module
 - Risk Analysis
 - Test Coverage
 
-### [Reading 07](reading-07.md)
+## [Reading 07](reading-07.md)
 - Scope
 - Big O
 
-### [Reading 08](reading-08.md)
+## [Reading 08](reading-08.md)
 - List Comprehensions
 
-### [Reading 09](reading-09.md)
+## [Reading 09](reading-09.md)
 - Dunder Methods
 - Statistics
 
-### [Reading 10](reading-10.md)
+## [Reading 10](reading-10.md)
 - Stacks and Queues
 
-### [Reading 11](reading-11.md)
+## [Reading 11](reading-11.md)
 - Jupyter
 - Numpy
 
-### [Reading 12](reading-12.md)
+## [Reading 12](reading-12.md)
 - Pandas
 
-### [Reading 13](reading-13.md)
+## [Reading 13](reading-13.md)
 - linear regression
 
-### [Reading 14](reading-14.md)
+## [Reading 14](reading-14.md)
 - matpltlib -- plt
 
-### [Reading 15](reading-15.md)
+## [Reading 15](reading-15.md)
 - Trees
 
-### [Reading 16](reading-16.md)
+## [Reading 16](reading-16.md)
 - Serverless Computing
 
-### [Reading 17](reading-17.md)
+## [Reading 17](reading-17.md)
 - Web Scraping
 - How to scrape without being blocked
 
@@ -96,9 +96,14 @@
 - Hash Tables
 
 ## [Reading 25](reading-25.md)
-- Django Restful Framework
+- Django Restful Framework(DRF)
 - Beginning Docker
 
 ## [Reading 26](reading-26.md)
 - Permissions
 - Postgresql
+
+## [Reading 27](reading-27.md)
+- Json Web Tokens(JWT)
+- DRF JWT
+- Django Runserver is not Your Production Server
