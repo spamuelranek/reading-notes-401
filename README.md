@@ -107,3 +107,7 @@
 - Json Web Tokens(JWT)
 - DRF JWT
 - Django Runserver is not Your Production Server
+
+## [API Deployment](reading-28.md)
+- Django Settings
+- SSH Tutorial
