@@ -78,6 +78,7 @@ adjavency_list = [
   - tips:
     - if graph has cycles possible to create infinit loops
     - need to create a `visited` collection to  checkif the node has been checked
+    
 ``` python
 def breath_first(vertex):
   nodes = []
@@ -101,16 +102,19 @@ def breath_first(vertex):
 ```python
 def depth_first(vertex):
   nodes = []
-  breadth = Stack()
+  depth = Stack()
   visited = set()
   
-  breadth.push(vertex)
+  depth.push(vertex)
 
-  while breadth is not is_empty():
-    if breadth
-    for child in vertex.children:
+  while depth is not is_empty():
+    top = depth.peek()
+    nodes.append(top)
+    for child in top.children:
+      
       if child not in visited:
         visited.add(vertex)
+        depth.push(child)
 
-        breadth.push(child)
+  return nodes
 ```
