@@ -111,3 +111,7 @@
 ## [API Deployment](reading-28.md)
 - Django Settings
 - SSH Tutorial
+
+## [Graph Implemntation](reading-29.md)
+- Graphs  
+  - a data structure
