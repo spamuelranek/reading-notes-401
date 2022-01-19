@@ -115,3 +115,7 @@
 ## [Graph Implemntation](reading-29.md)
 - Graphs  
   - a data structure
+
+## [DSA Review](reading-30.md)
+- Whiteboard Advice
+- 6 Tips
