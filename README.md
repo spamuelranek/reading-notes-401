@@ -119,3 +119,8 @@
 ## [DSA Review](reading-30.md)
 - Whiteboard Advice
 - 6 Tips
+
+## [React/ Next.js/ Tailwind](reading-31.md)
+- React
+- Next.js
+- Tailwind CSS
