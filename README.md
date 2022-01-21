@@ -124,3 +124,7 @@
 - React
 - Next.js
 - Tailwind CSS
+
+## [React Specfic State and Props](reading-32.md)
+- React Review
+
