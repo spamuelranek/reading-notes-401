@@ -128,3 +128,6 @@
 ## [React Specfic State and Props](reading-32.md)
 - React Review
 
+## [Nextjs and React Context](reading-33.md)
+- Nextjs
+- React Context for Beginners
