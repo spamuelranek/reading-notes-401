@@ -131,3 +131,7 @@
 ## [Nextjs and React Context](reading-33.md)
 - Nextjs
 - React Context for Beginners
+
+## [Nextjs Deployment](reading-34.md)
+- Nextjs Dynamic Routes
+- Nextjs Deployment
