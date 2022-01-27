@@ -135,3 +135,8 @@
 ## [Nextjs Deployment](reading-34.md)
 - Nextjs Dynamic Routes
 - Nextjs Deployment
+
+## [Pythonisms](reading.35.md)
+- Dunder Methods
+- Iterators
+- Generators
